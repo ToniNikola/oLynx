@@ -1,6 +1,7 @@
 #oLynx Orienteering competition organizer
 
-Web App that allows easy competition organization.
+Web App that allows easy competition organization. 
+Used tehnology: Laravel, Elexir, Bootstrap, jQuery, Vue.js
 
 Features:
 * User (Runner) system
